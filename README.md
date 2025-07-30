@@ -1,8 +1,8 @@
-# AI electrode and stimulus design for FES research: a pilot study
+# AI electrode and stimulus design for Functional Eelectrical Stimulation research: a pilot study
 
 [Siobhan Mackenzie Hall](https://github.com/smhall97), [Javier Sáez](https://github.com/javiersaez1) , [Panagiotis Tsakonas](https://github.com/PanosTsakonas), [Rodrigo Osorio L.](https://github.com/RodOsorio), [Francisco Saavedra](https://github.com/Fasaavedra), Pablo Aqueveque, James FitzGerald, Brian Andrews
 
-This work is predicted to impact the field of electrode design by supporting iterative and fast exploratory phases that complement the SOTA numerical methods. We also foresee these being used in low resource settings (e.g. a computer in a clinical department) to be used by clinicians and physiotherapists in real-time to determine parameters suitable for a specific patient. We also hope to facilitate wider participation from multiple disciplines in the electrode design process.
+This work is predicted to impact the field of functional electrical stimulation and electrode design by supporting iterative and fast exploratory phases that complement the SOTA numerical methods. We also foresee these being used in low resource settings (e.g. a computer in a clinical department) to be used by clinicians and physiotherapists in real-time to determine parameters suitable for a specific patient. We also hope to facilitate wider participation from multiple disciplines in the electrode design process.
 
 This work explores the hypothesis that a neural network can be trained to predict whether or not an axon within a femoral nerve bundle will activate under a range of applied geometries and stimuli. Parameters include the axon depth below the skin surface, the electrode shape and configuration, and the specific stimulation protocol. We present the methods employed to investigate this:
 
